@@ -13,6 +13,56 @@ h2{
   color: #8A919C;
 }
 
+.resume-container {
+  padding: 110px 0px 0px 0px;
+  display: block;
+  margin:auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  
+}
+.pdf-import {
+height: 36vw;
+width: 60vw;
+
+}
+.download-text {
+font-size: 24px;
+color: #28282B;
+margin-top: 10px;
+}
+
+.resume-downloads {
+margin-top: 5px;
+display: flex;
+flex-direction: row;
+cursor: pointer;
+color: #28282B;
+}
+
+.pdf-wrapper {
+border: none;
+text-align: center;
+border-radius: 2px;
+margin-right: 6px;
+font-size: 14px;
+height: 100%;
+width: 65px;
+background-color: #9bc1d6;
+color: #28282B;
+box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.pdf-wrapper:hover {
+opacity: 0.6;
+background-color: white;
+}
+.pdf-download {
+padding: 3px;
+display: flex;
+flex-direction: column;
+}
+
 .App {
   text-align: center;
 }
