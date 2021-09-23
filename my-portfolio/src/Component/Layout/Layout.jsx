@@ -11,6 +11,7 @@ const Layout = () => {
         <Link to="/resume">
           Resume
         </Link>
+        <a href='#about-me'className='ml-6'>About Me</a>
       </nav>
     </div>
   );
