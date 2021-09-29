@@ -1,4 +1,3 @@
-import climb from "../../Assests/nashClimb.png";
 const Hero = () => {
   return (
 <div className=" min-h-screen flex items-center justify-center bg-gray-900">
@@ -21,7 +20,7 @@ const Hero = () => {
 
   <div className="col-span-2 bg-gray-800 rounded animate-pulse"></div>
   <div className="col-span-4 bg-gray-800 rounded animate-pulse"></div>
-  <div class="col-span-6 bg-gray-800 rounded animate-pulse"></div>
+  <div className="col-span-6 bg-gray-800 rounded animate-pulse"></div>
 
   <div className="col-span-5 bg-gray-800 rounded animate-pulse"></div>
   <div className="col-span-5 bg-gray-800 rounded animate-pulse"></div>

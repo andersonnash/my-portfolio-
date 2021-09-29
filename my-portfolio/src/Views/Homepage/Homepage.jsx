@@ -3,8 +3,6 @@ import Skills from "../Skills/Skills";
 import About from "../About/About";
 import Projects from "../Projects/Projects";
 import Hero from '../Hero/Hero'
-import Layout from '../../Component/Layout/Layout'
-import climb from '../../Assests/nashClimb.png'
 
 const Homepage = () => {
   return (
