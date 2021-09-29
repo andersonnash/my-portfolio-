@@ -1,3 +1,5 @@
+
+
 body{
   background-color: #364156 ;
 }
@@ -7,11 +9,27 @@ h3{
   ;
   color: #F2F4F7;
 }
-
+h1,
 h2{
   font-family: 'Sigmar One', cursive;
   color: #8A919C;
 }
+
+/* .hero-banner{
+  background-image: url(/src/Assests/nashClimb.png);
+  height: 275vh;
+  
+} */
+
+/* .hero-text {
+  position: relative;
+}
+.text-on-image {
+ position: absolute;
+ right: 15%;
+ left: 15%;
+ bottom: 85%;
+} */
 
 .resume-container {
   padding: 110px 0px 0px 0px;
@@ -67,38 +85,5 @@ flex-direction: column;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
 
