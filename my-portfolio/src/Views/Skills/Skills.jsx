@@ -2,7 +2,7 @@ import React from "react";
 
 const Skills = () => {
   return (
-    <div className="flex items-center justify-center bg-gray-500 ">
+    <div className="flex items-center justify-center bg-gray-600 my-32 ">
       <div className='grid grid-cols-7 my-8 gap-6'>
       <img className='w-14 h-14' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
       <img className='w-14 h-14' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
